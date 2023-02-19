@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MarcaPagina.iml" filepath="$PROJECT_DIR$/MarcaPagina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendario/Calendario.iml" filepath="$PROJECT_DIR$/Calendario/Calendario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarcaPaginaYCalendario.iml" filepath="$PROJECT_DIR$/MarcaPaginaYCalendario.iml" />
     </modules>
   </component>
 </project>
